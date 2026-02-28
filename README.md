@@ -1,7 +1,13 @@
 # 🚀 Carlos Sales
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?color=00F7FF&size=28&center=true&vCenter=true&width=700&lines=An%C3%A1lise+e+Desenvolvimento+de+Sistemas;C+|+C+++|+Java+|+Python+|+MySQL;Building+Strong+Foundations;Always+Improving" />
+  <img src="https://readme-typing-svg.herokuapp.com/?color=00F7FF&size=28&center=true&vCenter=true&width=750&lines=An%C3%A1lise+e+Desenvolvimento+de+Sistemas;C+|+C+++|+Java+|+Python+|+MySQL;Backend+Focused;Always+Improving;Consistency+Beats+Motivation" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=GoblinCaulG&color=blueviolet&style=for-the-badge"/>
+  <img src="https://img.shields.io/github/followers/GoblinCaulG?style=for-the-badge&color=blue"/>
+  <img src="https://img.shields.io/github/stars/GoblinCaulG?style=for-the-badge&color=yellow"/>
 </p>
 
 ---
@@ -9,22 +15,23 @@
 ## 👨‍💻 Sobre Mim
 
 🎓 Estudante de Análise e Desenvolvimento de Sistemas  
-💻 Focado em desenvolvimento backend e fundamentos sólidos  
-⚡ Construindo base forte em lógica e programação  
-📚 Evolução constante através de prática e projetos reais  
+💻 Foco em backend e fundamentos sólidos  
+🧠 Mentalidade disciplinada  
+⚡ Evoluindo através de prática real  
+🔥 Obcecado por melhorar 1% todos os dias  
 
 ---
 
 ## 🛠️ Stack Principal
 
 ### 💻 Linguagens
-![C](https://img.shields.io/badge/C-000000?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B-111111?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Java](https://img.shields.io/badge/Java-222222?style=for-the-badge&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-333333?style=for-the-badge&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-004482?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 ### 🗄️ Banco de Dados
-![MySQL](https://img.shields.io/badge/MySQL-444444?style=for-the-badge&logo=mysql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white)
 
 ---
 
@@ -32,19 +39,19 @@
 
 - Estruturas de Dados  
 - Programação Orientada a Objetos  
-- Versionamento com Git  
-- Modelagem de Banco de Dados  
 - Algoritmos e Complexidade  
-- Debugging e resolução de problemas  
-- Organização de código e boas práticas  
+- Modelagem de Banco de Dados  
+- Versionamento com Git  
+- Debugging avançado  
+- Organização e arquitetura de código  
 
 ---
 
 ## 📊 Estatísticas
 
 <p align="center">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=GoblinCaulG&show_icons=true&theme=tokyonight&hide_border=true"/>
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GoblinCaulG&layout=compact&theme=tokyonight&hide_border=true"/>
+  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=GoblinCaulG&show_icons=true&theme=tokyonight&hide_border=true"/>
+  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GoblinCaulG&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
@@ -57,7 +64,7 @@
 
 ---
 
-## 📈 Atividade
+## 📈 Gráfico de Atividade
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=GoblinCaulG&theme=tokyo-night&hide_border=true"/>
@@ -65,12 +72,19 @@
 
 ---
 
-## 🎯 Objetivo
+## 🏆 Conquistas
 
-Construir sistemas bem estruturados, eficientes e escaláveis, evoluindo constantemente como desenvolvedor.
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=GoblinCaulG&theme=tokyonight&no-frame=true&row=1&column=6"/>
+</p>
 
 ---
 
-<p align="center">
-  ⚡ Disciplina > Motivação
-</p>
+## 🧠 Dev Mindset
+
+```txt
+while(alive){
+    learn();
+    code();
+    improve();
+}
