@@ -1,6 +1,10 @@
 # 🚀 Carlos Sales
 
 <p align="center">
+  <img src="re9.png" width="250" style="border-radius: 50%;">
+</p>
+
+<p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?color=00F7FF&size=28&center=true&vCenter=true&width=750&lines=An%C3%A1lise+e+Desenvolvimento+de+Sistemas;C+|+C+++|+Java+|+Python+|+MySQL;Backend+Focused;Always+Improving;Consistency+Beats+Motivation" />
 </p>
 
