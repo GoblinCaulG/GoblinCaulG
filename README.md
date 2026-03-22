@@ -1,7 +1,8 @@
 # 🚀 Carlos Sales
 
 <p align="center">
-  <img src="re9.png" width="250" style="border-radius: 50%;">
+  <img src="re9.png" height="250" style="border-radius: 50%;">
+  <img src="leon.gif" height="250" style="margin-left: 20px;">
 </p>
 
 <p align="center">
